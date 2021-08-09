@@ -61,7 +61,11 @@ We are testing this platform with the real-time images directly from the camera.
 ![image](https://github.com/argus2012/229_Final_SSD/blob/master/img/Renesas.png)  
 
 ## Project Demo
-My implementation based on pre-trained SSD model. I am Testing on the dataset of VOC2007. For this project I just Detect the objects with the classes of **Bicycle, Bus, Car, Motorbike, Person, Train** that related to the transportation on the real road.
+My implementation based on pre-trained SSD model. I am Testing on the dataset of VOC2007. For this project I just Detect the objects with the classes of **Bicycle, Bus, Car, Motorbike, Person, Train** that related to the transportation on the real road.  
 ![image](https://github.com/argus2012/229_Final_SSD/blob/master/img/Pascal.png)  
 
-Project codes refer to [here](https://drive.google.com/drive/folders/1RynaKIjnvfzoRUB0iEADHJX3vm-1C1ej?usp=sharing)
+![image](https://github.com/argus2012/229_Final_SSD/blob/master/out_images/000252_out.jpg)  
+![image](https://github.com/argus2012/229_Final_SSD/blob/master/out_images/001447_out.jpg)  
+![image](https://github.com/argus2012/229_Final_SSD/blob/master/out_images/test1_out.jpg)  
+
+Project codes also refer to [here](https://drive.google.com/drive/folders/1RynaKIjnvfzoRUB0iEADHJX3vm-1C1ej?usp=sharing)
